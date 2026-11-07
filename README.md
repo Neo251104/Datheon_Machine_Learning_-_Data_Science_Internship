@@ -1,5 +1,4 @@
 # Datheon_Machine_Learning_-_Data_Science_Internship
-# Iris Species Classification: Logistic Regression vs Decision Tree
 
 A supervised classification project on the classic Iris dataset. It benchmarks a Logistic Regression and a Decision Tree classifier using feature scaling, an 80/20 train/test split, and standard classification metrics.
 
